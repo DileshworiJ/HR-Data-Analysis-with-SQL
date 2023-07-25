@@ -1,4 +1,4 @@
-The data used here for analysis is the HR data from the year 2000 to 2020 with more than 22000 rows. MySQL Workbench is used for data cleaning and analysis. Power BI is used for data visualization. The data is analyzed to get the finding for the 11 questions. 
+The data used here for analysis is the HR data from the year 2000 to 2020 with more than 22000 rows. MySQL Workbench is used for data cleaning and analysis. Power BI is used for data visualization. The data is analyzed to get the finding for the questions in hrqueries file. 
 
 The finding of the summary is pointed out as follows:
 
