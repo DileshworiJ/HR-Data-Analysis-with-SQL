@@ -1,3 +1,8 @@
+![image](https://github.com/DileshworiJ/HR-Data-Analysis-with-SQL/assets/71243817/dee7e944-0030-467f-81c6-f4ad43c50778)
+![image](https://github.com/DileshworiJ/HR-Data-Analysis-with-SQL/assets/71243817/2bb01060-720a-42fb-8085-7c74cd6608f2)
+
+
+
 The data used here for analysis is the HR data from the year 2000 to 2020 with more than 22000 rows. MySQL Workbench is used for data cleaning and analysis. Power BI is used for data visualization. The data is analyzed to get the finding for the questions in hrqueries file. 
 
 The finding of the summary is pointed out as follows:
