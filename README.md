@@ -1,3 +1,5 @@
+Tools Used: MySQL Workbench
+
 ![image](https://github.com/DileshworiJ/HR-Data-Analysis-with-SQL/assets/71243817/dee7e944-0030-467f-81c6-f4ad43c50778)
 ![image](https://github.com/DileshworiJ/HR-Data-Analysis-with-SQL/assets/71243817/2bb01060-720a-42fb-8085-7c74cd6608f2)
 
